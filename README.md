@@ -20,24 +20,7 @@ The Spider Web of Datuk Onn
         </nav>
     </header>
     
-    <main>
-        <section>
-            <h2>About our website</h2>
-            <p>This is a brief introduction about us...</p>
-        </section>
-        
-        <section>
-            <h2>Services</h2>
-            <ul>
-                <li>Service 1</li>
-                <li>Service 2</li>
-                <li>Service 3</li>
-            </ul>
-        </section>
-    </main>
-    
-    <footer>
-        <p>&copy; 2023 DOB Spider Web. All rights reserved.</p>
-    </footer>
+
+
 </body>
 </html>
