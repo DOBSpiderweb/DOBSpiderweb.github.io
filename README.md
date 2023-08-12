@@ -13,19 +13,6 @@ The Spider Web of Datuk Onn
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
-           <!-- Home section -->
-       
-            <h2>Welcome to Our Website</h2>
-            <p>We provide high-quality services to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-           
-            </ul>
-        </section>
-
-                <li>Service 1</li>
-                <li>Service 2</li>
-                <li>Service 3</li>
-            </ul>
-        </section>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Contact</a></li>
@@ -36,6 +23,17 @@ The Spider Web of Datuk Onn
 
 
 </body>
+<!-- Home section -->
+        <section id="home">
+            <h2>Welcome to Our Website</h2>
+            <p>We provide high-quality services to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <img src="home-image.jpg" alt="Home Image">
+            <ul>
+                <li>Service 1</li>
+                <li>Service 2</li>
+                <li>Service 3</li>
+            </ul>
+        </section>
 
 
 
