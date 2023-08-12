@@ -89,9 +89,25 @@ Before you begin, make sure you have the following installed:
 - **Node.js**: RemindMeNow uses Node.js for the backend server.
 - **npm**: npm is the package manager for Node.js and is needed to install dependencies.
 
+    <h2>Contact Information</h2>
 
-
-
+ ## Main Developer
+ 
+- **Name:** Nashatrra Maran
+- **Email:** nashatrraM@gmail.com
+- **Contact:** +60 19-4732449
+- 
+ ## Associate Developer
+ 
+- **Name:** Faqihah Hanun
+- **Email:** davemillaa@gmail.com
+- **Contact:** +60 11-61901960
+- 
+ ## Designer
+ 
+- **Name:** Gloria Anne Narcis
+- **Email:** glorianarcis5@gmail.com
+- **Contact:** +60 17-4501427
 
 
 
