@@ -28,11 +28,7 @@ The Spider Web of Datuk Onn
             <h2>Welcome to Our Website</h2>
             <p>We provide high-quality services to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             
-            <ul>
-                <li>Service 1</li>
-                <li>Service 2</li>
-                <li>Service 3</li>
-            </ul>
+            
         </section>
         
      
