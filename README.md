@@ -19,7 +19,7 @@ The Spider Web of SMK Datuk Onn
 <main>
         <!-- Home section -->
         <section id="home">
-            <h2>This is Our Website ! </h2>
+            <h2>RemindMeNow</h2>
             <p>We provide an interesting app to check all your daily activities or task to be done.</p>
            
 
@@ -102,7 +102,7 @@ Before you begin, make sure you have the following installed:
 - **Name:** Faqihah Hanun
 - **Email:** davemillaa@gmail.com
 - **Contact:** +60 11-61901960
-- 
+ 
  ## Designer
  
 - **Name:** Gloria Anne Narcis
@@ -110,8 +110,10 @@ Before you begin, make sure you have the following installed:
 - **Contact:** +60 17-4501427
 
 
+## Conclusion
 
-
+Thank you for exploring **RemindMeNow** ! We hope you find it valuable and a helpful addition to your workflow. Our commitment to open-source drives us to continuously improve and innovate. We welcome your feedback, suggestions, and contributions to make this project even better for the community.
+We look forward to seeing **RemindMeNow** being put to good use and hope it simplifies your tasks and enhances your productivity. Happy reminding!
 
 
 
