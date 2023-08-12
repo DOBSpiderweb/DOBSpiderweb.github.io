@@ -27,7 +27,7 @@ The Spider Web of Datuk Onn
         <section id="home">
             <h2>Welcome to Our Website</h2>
             <p>We provide high-quality services to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <img src="home-image.jpg" alt="Home Image">
+            <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fspider-web.html&psig=AOvVaw13n2vrWFymZBGWv_32wtoE&ust=1691898587746000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCo_sWb1oADFQAAAAAdAAAAABAD.jpg" alt="Home Image">
             <ul>
                 <li>Service 1</li>
                 <li>Service 2</li>
