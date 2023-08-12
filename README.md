@@ -23,4 +23,17 @@ The Spider Web of Datuk Onn
 
 
 </body>
+
+
+
+
+
+
+
+
+
+
+<footer>
+        <p>&copy; 2023 DOB Spider Web. All rights reserved.</p>
+    </footer>
 </html>
