@@ -35,22 +35,7 @@ The Spider Web of Datuk Onn
             </ul>
         </section>
         
-        <!-- Other sections -->
-        <section>
-            <h2>About Us</h2>
-            <p>Learn more about our company and our team...</p>
-        </section>
-        
-        <section>
-            <h2>Our Services</h2>
-            <ul>
-                <li>Service 1</li>
-                <li>Service 2</li>
-                <li>Service 3</li>
-            </ul>
-        </section>
-    </main>
-    
+     
 
 
 
