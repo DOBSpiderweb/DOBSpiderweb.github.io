@@ -19,7 +19,7 @@ The Spider Web of Datuk Onn
 <main>
         <!-- Home section -->
         <section id="home">
-            <h2>Welcome to Our Website</h2>
+            <h2>This is Our Website</h2>
             <p>We provide.</p>
            <h2>Contribution</h2>
 
@@ -35,17 +35,29 @@ A big thank you to all the amazing contributors who have helped make this projec
 - [Faqihah Hanun](https://github.com/LenVM1412)
 - [Gloria Anne Narcis](https://github.com/octoez)
 
-Your contributions and feedback are invaluable to us. If you'd like to become a contributor, please follow the steps in the [Contributing Guidelines](CONTRIBUTING.md).
+Your contributions and feedback are invaluable to us. 
 
-    <title>Nashatrra's Pokédex</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #ff0000;
-            color: #ffffff;
-            margin: 0;
-            padding: 20px;        
-            
+ ## Contact Information
+
+- **Name:** Nashatrra Maran
+- **Email:** nashatrraM@gmail.com
+- **GitHub:** (https://github.com/nashatrra)
+
+   ## Contact Information
+
+- **Name:** Faqihah Hanun
+- **Email:** davemillaa@gmail.com
+- **GitHub:**(https://github.com/LenVM1412)
+
+   ## Contact Information
+
+- **Name:** Gloria Anne Narcis
+- **Email:** glorianarcis5@gmail.com
+- **GitHub:**(https://github.com/octoez)
+
+
+
+          
      
         
      
