@@ -27,60 +27,6 @@
             <!-- Reminders will be dynamically added here -->
         </div>
 
-    class Reminder:
-        def __init__(self, task, date, time):
-            self.task = task
-            self.date = date
-            self.time = time
-    
-    def create_reminder():
-        task = input("Enter the task for the reminder: ")
-        date_str = input("Enter the date (YYYY-MM-DD) for the reminder: ")
-        time_str = input("Enter the time (HH:MM) for the reminder: ")
-    
-        try:
-            date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
-            time = datetime.datetime.strptime(time_str, '%H:%M').time()
-    
-            return Reminder(task, date, time)
-        except ValueError:
-            print("Invalid date or time format. Please use YYYY-MM-DD for the date and HH:MM for the time.")
-            return None
-    
-    def show_reminders(reminders):
-        if not reminders:
-            print("No reminders.")
-        else:
-            print("Reminders:")
-            for i, reminder in enumerate(reminders):
-                print(f"{i+1}. Task: {reminder.task} | Date: {reminder.date} | Time: {reminder.time}")
-    
-    def main():
-        reminders = []
-    
-        while True:
-            print("\nReminder App")
-            print("1. Create Reminder")
-            print("2. Show Reminders")
-            print("3. Exit")
-    
-            choice = input("Enter your choice (1/2/3): ")
-    
-            if choice == "1":
-                reminder = create_reminder()
-                if reminder:
-                    reminders.append(reminder)
-                    print("Reminder created.")
-            elif choice == "2":
-                show_reminders(reminders)
-            elif choice == "3":
-                print("Exiting Reminder App.")
-                break
-            else:
-                print("Invalid choice. Please select 1, 2, or 3.")
-    
-    if __name__ == "__main__":
-        main()
     
 
      <footer>
