@@ -21,7 +21,7 @@ The Spider Web of Datuk Onn
         <section id="home">
             <h2>Welcome to Our Website</h2>
             <p>We provide.</p>
-           <h2>Contibution</h2>
+           <h2>Contribution</h2>
 
 We welcome contributions from the community!
 
