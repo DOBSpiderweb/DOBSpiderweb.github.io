@@ -12,8 +12,7 @@ The Spider Web of Datuk Onn
         <h1>Welcome to  DOB Spider Web</h1>
         <nav>
             
-        </nav>
-    </header>
+        
     
 
 
