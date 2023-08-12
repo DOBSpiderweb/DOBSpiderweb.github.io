@@ -37,7 +37,14 @@ A big thank you to all the amazing contributors who have helped make this projec
 
 Your contributions and feedback are invaluable to us. If you'd like to become a contributor, please follow the steps in the [Contributing Guidelines](CONTRIBUTING.md).
 
-            
+    <title>Nashatrra's Pokédex</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ff0000;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;        
             
      
         
