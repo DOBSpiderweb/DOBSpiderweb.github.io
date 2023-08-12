@@ -21,15 +21,11 @@ The Spider Web of Datuk Onn
         <section id="home">
             <h2>Welcome to Our Website</h2>
             <p>We provide.</p>
-            ## Contributing
+           <h2>Contibution</h2>
 
-We welcome contributions from the community! If you're interested in improving this project, please follow these guidelines:
+We welcome contributions from the community!
 
-1. ...
 
-2. ...
-
-3. ...
 
 ### Members
 
