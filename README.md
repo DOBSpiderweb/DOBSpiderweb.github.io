@@ -22,8 +22,8 @@ The Spider Web of Datuk Onn
     
 
 
-</body>
-<!-- Home section -->
+<main>
+        <!-- Home section -->
         <section id="home">
             <h2>Welcome to Our Website</h2>
             <p>We provide high-quality services to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -34,6 +34,23 @@ The Spider Web of Datuk Onn
                 <li>Service 3</li>
             </ul>
         </section>
+        
+        <!-- Other sections -->
+        <section>
+            <h2>About Us</h2>
+            <p>Learn more about our company and our team...</p>
+        </section>
+        
+        <section>
+            <h2>Our Services</h2>
+            <ul>
+                <li>Service 1</li>
+                <li>Service 2</li>
+                <li>Service 3</li>
+            </ul>
+        </section>
+    </main>
+    
 
 
 
