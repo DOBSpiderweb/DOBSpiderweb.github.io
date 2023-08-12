@@ -96,7 +96,7 @@ Before you begin, make sure you have the following installed:
 - **Name:** Nashatrra Maran
 - **Email:** nashatrraM@gmail.com
 - **Contact:** +60 19-4732449
-- 
+  
  ## Associate Developer
  
 - **Name:** Faqihah Hanun
