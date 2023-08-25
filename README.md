@@ -70,7 +70,7 @@ Let's make this project even more awesome together!
 Before you begin, make sure you have the following installed:
 
 
-    <h2>Contact Information</h2>
+  <h2>Contact Information</h2>
 
  ## Main Developer
  
