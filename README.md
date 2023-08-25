@@ -65,10 +65,6 @@ Your contributions and feedback are invaluable to us.
 Let's make this project even more awesome together!
      
 
-### Prerequisites
-
-Before you begin, make sure you have the following installed:
-
 
   ### Contact Information 
 
