@@ -3,18 +3,167 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokédex</title>
-    <link rel="stylesheet" href="styles.css">
+   <title>SMKDOB SpiderWeb Pokédex</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6e6fa; /* Lavender */
+            color: #000000; /* Black */
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            text-align: center;
+        }
+        .pokedex {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .pokemon {
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #ffffff;
+            border-radius: 5px;
+            background-color: #d8bfd8; /* Thistle */
+            text-align: center;
+            width: 150px;
+        }
+        .pokemon img {
+            max-width: 100px;
+            max-height: 100px;
+        }
+        .pokemon-name {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Pokédex</h1>
-        <input type="text" id="searchInput" placeholder="Search Pokémon...">
-    </header>
+    <h1>POKEMONS</h1>
     <div class="pokedex">
-        
-    </div>
-    <script src="script.js"></script>
+        <div class="pokemon">
+    <img src="https://static.wikia.nocookie.net/pokemon/images/6/6c/Char-pikachu.png/revision/latest/scale-to-width/360?cb=20190430034300" alt="Pikachu">
+    <div class="pokemon-name">Pikachu</div>
+    <div class="pokemon-type">Electric</div>
+    <div class="pokemon-description">A small, electric mouse Pokémon.</div>
+</div>
+<div class="pokemon">
+    <img src="https://archives.bulbagarden.net/media/upload/f/fb/0001Bulbasaur.png" alt="Bulbasaur">
+    <div class="pokemon-name">Bulbasaur</div>
+    <div class="pokemon-type">Grass / Poison</div>
+    <div class="pokemon-description">A grass-type Pokémon with a plant bulb on its back.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png" alt="Charmander">
+    <div class="pokemon-name">Charmander</div>
+    <div class="pokemon-type">Fire</div>
+    <div class="pokemon-description">A fire-type Pokémon with a flame on its tail.</div>
+</div>
+<div class="pokemon">
+    <img src="https://p1.hiclipart.com/preview/255/94/461/squirtle-with-a-default-happy-face-png-clipart.jpg" alt="Squirtle">
+    <div class="pokemon-name">Squirtle</div>
+     <div class="pokemon-type">Water</div>
+    <div class="pokemon-description">A water-type Pokémon that hides in its shell.</div>
+</div>
+<div class="pokemon">
+    <img src="https://archives.bulbagarden.net/media/upload/3/3a/0039Jigglypuff.png" alt="Jigglypuff">
+    <div class="pokemon-name">Jigglypuff</div>
+     <div class="pokemon-type">Normal / Fairy</div>
+    <div class="pokemon-description">A normal-type Pokémon known for its singing that puts others to sleep.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png" alt="Eevee">
+    <div class="pokemon-name">Eevee</div>
+     <div class="pokemon-type">Normal</div>
+    <div class="pokemon-description">A unique Pokémon that can evolve into various forms based on conditions.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png" alt="Snorlax">
+    <div class="pokemon-name">Snorlax</div>
+    <div class="pokemon-type">Normal</div>
+    <div class="pokemon-description">A large and sleepy Pokémon that loves to eat and sleep.</div>
+</div>
+<div class="pokemon">
+    <img src="https://w7.pngwing.com/pngs/1008/857/png-transparent-pidgeotto-pidgey-johto-pokemon-shroomish-pokemon-galliformes-chicken-vertebrate.png" alt="Pidgey">
+    <div class="pokemon-name">Pidgey</div>
+    <div class="pokemon-type">Normal / Flying</div>
+    <div class="pokemon-description">A small bird Pokémon known for its keen eyesight.</div>
+</div>
+<div class="pokemon">
+    <img src="https://static.miraheze.org/greatcharacterswiki/4/47/OfficialMewtwoDesign.png" alt="Mewtwo">
+    <div class="pokemon-name">Mewtwo</div>
+    <div class="pokemon-type">Psychic</div>
+    <div class="pokemon-description">A powerful psychic Pokémon created through genetic manipulation.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png" alt="Gyarados">
+    <div class="pokemon-name">Gyarados</div>
+    <div class="pokemon-type">Water / Flying</div>
+    <div class="pokemon-description">A fearsome sea serpent Pokémon that evolves from Magikarp.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png" alt="Mew">
+    <div class="pokemon-name">Mew</div>
+    <div class="pokemon-type">Psychic</div>
+    <div class="pokemon-description">A mythical psychic Pokémon known for its ability to learn any move.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png" alt="Dragonite">
+    <div class="pokemon-name">Dragonite</div>
+    <div class="pokemon-type">Dragon / Flying</div>
+    <div class="pokemon-description">A gentle giant Pokémon known for its graceful flight and strength.</div>
+</div>
+<div class="pokemon">
+    <img src="https://toppng.com/uploads/preview/magikarp-pokemon-magikar-115632256910eunugki1i.png" alt="Magikarp">
+    <div class="pokemon-name">Magikarp</div>
+    <div class="pokemon-type">Water</div>
+    <div class="pokemon-description">A weak and feeble fish Pokémon that evolves into a powerful Gyarados.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png" alt="Vaporeon">
+    <div class="pokemon-name">Vaporeon</div>
+    <div class="pokemon-type">Water</div>
+    <div class="pokemon-description">An evolution of Eevee that transforms into a water-type Pokémon.</div>
+</div>
+<div class="pokemon">
+    <img src="https://static.pokemonpets.com/images/monsters-images-800-800/10065-Shiny-Mega-Alakazam.webp" alt="Alakazam">
+    <div class="pokemon-name">Alakazam</div>
+    <div class="pokemon-type">Psychic</div>
+    <div class="pokemon-description">A psychic Pokémon known for its high intelligence and powerful mind.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png" alt="Jolteon">
+    <div class="pokemon-name">Jolteon</div>
+    <div class="pokemon-type">Electric</div>
+    <div class="pokemon-description">An evolution of Eevee with sharp fur that can discharge electricity.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png" alt="Flareon">
+    <div class="pokemon-name">Flareon</div>
+    <div class="pokemon-type">Fire</div>
+    <div class="pokemon-description">An evolution of Eevee with a flame sac that can unleash intense heat.</div>
+</div>
+<div class="pokemon">
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png" alt="Lapras">
+    <div class="pokemon-name">Lapras</div>
+    <div class="pokemon-type">Water / Ice</div>
+    <div class="pokemon-description">A gentle and musical sea creature Pokémon known for ferrying people on its back.</div>
+</div>
+ <footer>
+        &copy; 2023 SMKDOB SpiderWeb. All rights reserved.
+    </footer>
+
 </body>
 </html>
+
+
+
+
+
+
+
+
 
