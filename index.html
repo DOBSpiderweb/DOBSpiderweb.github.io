@@ -16,17 +16,48 @@
     </div>
     <script src="script.js"></script>
 </body>
-<main>
-    <section class="pokemon">
-        <h2>Pikachu</h2>
-        <img src="pikachu.png" alt="Pikachu">
-        <p>Pikachu is an Electric-type Pokémon known for its lightning bolt tail.</p>
-    </section>
-    <section class="pokemon">
-        <h2>Charmander</h2>
-        <img src="charmander.png" alt="Charmander">
-        <p>Charmander, a Fire-type Pokémon, has a flame on its tail that burns brightly.</p>
-    </section>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #663399;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.pokedex {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.pokemon-card {
+    background-color: #9575CD;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+}
+
+.pokemon-card img {
+    max-width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+#searchInput {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
 
 </html>
 
