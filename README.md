@@ -19,27 +19,13 @@ The Spider Web of SMK Datuk Onn
 <main>
         <!-- Home section -->
         <section id="home">
-            <h2>RemindMeNow</h2>
-            <p>We provide an interesting app to check all your daily activities or task to be done.</p>
+            <h2>Pokemon Go</h2>
+            <p>We provide an interesting app to check all types of pokemons.</p>
            
 
 ## Project Overview
 
-**RemindMeNow** is a versatile and user-friendly reminder application designed to help individuals stay organized, manage their time effectively, and never forget important tasks or events. Whether you're a busy professional, a student with a packed schedule, or someone who simply wants to stay on top of daily commitments, RemindMeNow has you covered!
-
-### Key Features
-
-- **Easy Task Creation**: Quickly create reminders with titles, descriptions, due dates, and optional recurrence settings.
-- **Intuitive Interface**: With a clean and intuitive design, RemindMeNow ensures users can start creating reminders without any learning curve.
-- **Flexible Reminders**: Set reminders for one-time events or recurring tasks (daily, weekly, monthly, yearly), ensuring nothing falls through the cracks.
-- **Custom Categories**: Organize your reminders into categories or tags, making it easy to manage tasks based on different aspects of your life.
-- **Snooze and Mark Complete**: Ability to snooze reminders for a specified period or mark them as complete once they're done.
-
- ### How It Works
-
-RemindMeNow is a cross-platform application available on web, iOS, and Android. It's built using a modern tech stack, utilizing React for the frontend, Node.js for the backend, and a reliable database to store user reminders securely. The app ensures privacy, and all data is encrypted to protect user information.
-
-With RemindMeNow, you can finally eliminate the stress of forgetting important dates, tasks, or events. Experience the convenience of a powerful yet simple reminder app that adapts to your busy lifestyle, helping you make the most out of every day.        
+**Pokemon Go** is a versatile and interesting app to explore the types of Pokemons.
      
 <h2>Contribution</h2>
 
@@ -78,16 +64,11 @@ Your contributions and feedback are invaluable to us.
 
 Let's make this project even more awesome together!
      
-## Installation
-
-To start using RemindMeNow, follow these steps to set up the application:
 
 ### Prerequisites
 
 Before you begin, make sure you have the following installed:
 
-- **Node.js**: RemindMeNow uses Node.js for the backend server.
-- **npm**: npm is the package manager for Node.js and is needed to install dependencies.
 
     <h2>Contact Information</h2>
 
@@ -112,8 +93,8 @@ Before you begin, make sure you have the following installed:
 
 ## Conclusion
 
-Thank you for exploring **RemindMeNow** ! We hope you find it valuable and a helpful addition to your workflow. Our commitment to open-source drives us to continuously improve and innovate. We welcome your feedback, suggestions, and contributions to make this project even better for the community.
-We look forward to seeing **RemindMeNow** being put to good use and hope it simplifies your tasks and enhances your productivity. Happy reminding!
+Thank you for exploring **Pokemon Go** ! We hope you find it valuable and a helpful addition to your workflow. Our commitment to open-source drives us to continuously improve and innovate. We welcome your feedback, suggestions, and contributions to make this project even better for the community.
+We look forward to seeing **Pokemon Go** being put to good use . Happy Exploring!
 
 
 
